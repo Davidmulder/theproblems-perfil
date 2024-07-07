@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-  <img src="img/logo.png"  width="120">
+  <img src="img/Logo.png"  width="120">
 <br>
 <br>
 PROBLEMS GAMES LTDA
